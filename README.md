@@ -1,3 +1,4 @@
+
 # Square Array
 
 ## Learning Goals
